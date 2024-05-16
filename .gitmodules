@@ -1,0 +1,6 @@
+[submodule "build-dashboard"]
+	path = build-dashboard
+	url = https://github.com/amrom66/build-dashboard.git
+[submodule "build-server"]
+	path = build-server
+	url = https://github.com/amrom66/build-server.git
